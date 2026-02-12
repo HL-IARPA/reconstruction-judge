@@ -1,0 +1,207 @@
+{
+  "doc_id": "1978TRIPOL01121",
+  "timestamp": "2026-02-12T19:35:19.509Z",
+  "claim_evaluations": [
+    {
+      "claim_id": "c1",
+      "claim_text": "The reporting post shares the Department's interest in obtaining additional information regarding Libya's role in the Orly Airport terrorist incident.",
+      "claim_type": "assessment",
+      "importance": 3,
+      "score": 7,
+      "justification": "The reconstruction captured the core idea that additional information was sought regarding Libyan involvement in a terrorist incident in France. However, it missed the specific mention of 'Orly Airport' and the detail about 'the reporting post shares the Department's interest'.",
+      "evidence_refs": [
+        "t1",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The only information seen in traffic thus far is that arms used by terrorists were at an unknown time purchased from Italy by Libya.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 8,
+      "justification": "The reconstruction accurately states that weapons used by terrorists were acquired by Libya from Italy. It missed the contextual phrases 'The only information seen in traffic thus far' and 'at an unknown time'.",
+      "evidence_refs": [
+        "t2",
+        "t1",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The Libyans could easily side-step the issue of arms purchase by observing that their long-term support for Palestinian resistance movements, including provision of arms, is no secret.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question directly related to this claim, and no other part of the reconstruction provides this information.",
+      "evidence_refs": [
+        "t3"
+      ]
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "The Libyans could easily side-step the issue of arms purchase by observing that how Palestinians use such arms is not Libyan responsibility.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 2,
+      "justification": "The reconstruction provides a different argument Libya might use to sidestep an issue (that the incident is in the past and shouldn't disturb relations). It does not capture the specific argument that 'how Palestinians use such arms is not Libyan responsibility'.",
+      "evidence_refs": [
+        "t4"
+      ]
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "It would be different if there was information that Libyans had armed terrorists specifically for Orly operations.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question directly related to this claim, and no other part of the reconstruction provides this information.",
+      "evidence_refs": [
+        "t5"
+      ]
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "It would be different if there was information that arms had been transported to France by Libyans.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question directly related to this claim, and no other part of the reconstruction provides this information.",
+      "evidence_refs": [
+        "t6"
+      ]
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "If evidence of direct Libyan involvement is obtained, Embassy Tripoli would recommend joining in a demarche to the Libyan government.",
+      "claim_type": "plan",
+      "importance": 4,
+      "score": 8,
+      "justification": "The reconstruction correctly identifies that a 'joint demarche would be a recommended diplomatic action' if direct involvement was obtained. It omits the specific mention of 'Embassy Tripoli' and 'joining in'.",
+      "evidence_refs": [
+        "t7"
+      ]
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "A problem has been the absence of convincing evidence linking the Libyan government with recent terrorist incidents.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The original claim states an 'absence of convincing evidence'. However, the reconstruction (specifically [th1] and Synthesis) explicitly states the 'availability of convincing evidence regarding Libyan involvement', directly contradicting the claim.",
+      "evidence_refs": [
+        "t8",
+        "th1",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "The absence of convincing evidence prevents justification for a ban on export to Libya of Oshkosh trucks.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question directly related to this claim, and no other part of the reconstruction provides this information.",
+      "evidence_refs": [
+        "t9"
+      ]
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "The absence of convincing evidence prevents justification for an announcement of restriction on Boeings to Libya.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question directly related to this claim, and no other part of the reconstruction provides this information.",
+      "evidence_refs": [
+        "t10"
+      ]
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "US policy would be better understood by those within the Libyan government who say they are working for improved US-Libyan relations if hard information regarding Libyan involvement at Orly could be cited.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question directly related to this claim, and no other part of the reconstruction provides this information.",
+      "evidence_refs": [
+        "t11"
+      ]
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "If Libyan participation in the Orly attack was limited to the original purchase of arms, a demarche would carry little weight.",
+      "claim_type": "assessment",
+      "importance": 3,
+      "score": 10,
+      "justification": "The reconstruction perfectly captures that if Libyan connection was limited to initial weapon acquisition, the diplomatic action's effectiveness would be low, which is equivalent to 'carry little weight'. It also provides supporting details.",
+      "evidence_refs": [
+        "t12",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "Libyans would consider themselves victims of a hostile campaign if a demarche was based on a limited connection with the Orly attack.",
+      "claim_type": "assessment",
+      "importance": 3,
+      "score": 6,
+      "justification": "The reconstruction captures that Libya would 'downplay its significance' if a demarche was based on a limited connection. However, it misses the specific nuance that Libyans would 'consider themselves victims of a hostile campaign'.",
+      "evidence_refs": [
+        "t13"
+      ]
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "Tunisians reportedly furnished passports in connection with the Orly attack.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question directly related to this claim, and no other part of the reconstruction provides this information.",
+      "evidence_refs": [
+        "t14"
+      ]
+    }
+  ],
+  "calculated_metrics": {
+    "total_claims": 14,
+    "average_score": 2.9285714285714284,
+    "weighted_average_score": 2.7115384615384617,
+    "fully_reconstructed": 3,
+    "partially_reconstructed": 2,
+    "not_reconstructed": 9,
+    "by_type": {
+      "assessment": {
+        "count": 11,
+        "average_score": 2.272727272727273
+      },
+      "attribution": {
+        "count": 1,
+        "average_score": 8
+      },
+      "plan": {
+        "count": 1,
+        "average_score": 8
+      },
+      "event": {
+        "count": 1,
+        "average_score": 0
+      }
+    },
+    "by_importance": {
+      "3": {
+        "count": 4,
+        "average_score": 5.75
+      },
+      "4": {
+        "count": 10,
+        "average_score": 1.8
+      }
+    }
+  },
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "total_tokens": 6046,
+    "cost_usd": 0.00106155
+  }
+}

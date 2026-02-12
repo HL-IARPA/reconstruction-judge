@@ -1,0 +1,213 @@
+{
+  "doc_id": "1975KUALA05712",
+  "timestamp": "2026-02-12T19:30:15.505Z",
+  "claim_evaluations": [
+    {
+      "claim_id": "c1",
+      "claim_text": "A reftel requested comments from this Embassy regarding a possible sale of ROK-manufactured M-67 hand grenades to Malaysian Armed Forces.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 2,
+      "justification": "The reconstruction vaguely mentions a potential sale from ROK to Malaysia and the Embassy's assessment, but it incorrectly identifies the item as 'mortars' or 'mortar ammunition' instead of 'M-67 hand grenades.' The specific detail about a 'reftel requesting comments' is also missed, and the analyst explicitly stated 'Unable to answer' for the direct question about the entity seeking the Embassy's opinion.",
+      "evidence_refs": [
+        "t1",
+        "t4",
+        "q3",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The U.S. Government has approved a number of cash sales of U.S.-produced military equipment (helicopters, armored cars) to GOM.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 4,
+      "justification": "The reconstruction correctly identifies U.S. military assistance to the GOM but specifies Military Assistance Program (MAP) and Excess Defense Articles (EDA) programs, which are not 'cash sales.' It completely misses the detail about 'cash sales' and the specific examples of equipment (helicopters, armored cars).",
+      "evidence_refs": [
+        "t2",
+        "q3",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The U.S. Government has a small ongoing FMS credit program (F5E's, probably C-130's, S-61's) with GOM.",
+      "claim_type": "relationship",
+      "importance": 3,
+      "score": 0,
+      "justification": "The reconstruction explicitly states 'Unable to answer' for the question directly addressing this claim and provides no relevant information about an FMS credit program or the specified equipment.",
+      "evidence_refs": [
+        "t3"
+      ]
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "This Embassy can see no policy objection from this end for a Korean sale of grenades.",
+      "claim_type": "assessment",
+      "importance": 5,
+      "score": 6,
+      "justification": "The reconstruction correctly states that the Embassy noted 'no policy concerns' regarding a potential sale by the Republic of Korea. However, it incorrectly refers to the items as 'mortars' or 'mortar ammunition' instead of 'grenades.'",
+      "evidence_refs": [
+        "t4",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "According to a local representative of British Crown Agents, the U.S. Army has tendered on this same purchase.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction explicitly states 'Unable to answer' for the question directly addressing this claim and provides no information about British Crown Agents or the U.S. Army tendering on a purchase.",
+      "evidence_refs": [
+        "t5"
+      ]
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "British Crown Agents formerly handled many Malaysian purchases of U.S. military equipment and armaments.",
+      "claim_type": "relationship",
+      "importance": 2,
+      "score": 0,
+      "justification": "The reconstruction incorrectly attributes the management of Malaysian purchases of U.S. military equipment to the Department of Defense/Defense Security Assistance Agency (DOD/DSAA), rather than British Crown Agents.",
+      "evidence_refs": [
+        "t6"
+      ]
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "Last month, responsibility for military procurement was given to GOM State Trading Company Pernas Wakil Berhad.",
+      "claim_type": "event",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction explicitly states 'Unable to answer' for the question directly addressing this claim and provides no relevant information.",
+      "evidence_refs": [
+        "t7"
+      ]
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "GOM State Trading Company Pernas Wakil Berhad called for new bids.",
+      "claim_type": "event",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction explicitly states 'Unable to answer' for the question directly addressing this claim and provides no relevant information.",
+      "evidence_refs": [
+        "t8"
+      ]
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "The cut-off date for new bids was September 26.",
+      "claim_type": "logistics",
+      "importance": 3,
+      "score": 0,
+      "justification": "The reconstruction explicitly states 'Unable to answer' for the question directly addressing this claim and provides no relevant information.",
+      "evidence_refs": [
+        "t9"
+      ]
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "DAO has received inquiries from several go-betweens regarding possible sources of these grenades.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 0,
+      "justification": "The reconstruction explicitly states 'Unable to answer' for the question directly addressing this claim and provides no relevant information.",
+      "evidence_refs": [
+        "t10"
+      ]
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The go-betweens made inquiries so that they could tender.",
+      "claim_type": "plan",
+      "importance": 2,
+      "score": 0,
+      "justification": "The reconstruction explicitly states 'Unable to answer' for the question directly addressing this claim and provides no relevant information.",
+      "evidence_refs": [
+        "t11"
+      ]
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "Ref B contained a request for a price up-date.",
+      "claim_type": "logistics",
+      "importance": 3,
+      "score": 0,
+      "justification": "The reconstruction completely misidentifies the content of the referenced document, stating it concerned MAAG staffing and military personnel figures rather than a request for a price update.",
+      "evidence_refs": [
+        "t12"
+      ]
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "The price up-date was requested so that Crown Agents could resubmit the U.S. Army offer.",
+      "claim_type": "plan",
+      "importance": 3,
+      "score": 0,
+      "justification": "The reconstruction explicitly states 'Unable to answer' for the question directly addressing this claim and provides no relevant information. The content of the referenced document was also incorrectly identified in the answer to t12, further indicating a complete miss.",
+      "evidence_refs": [
+        "t13",
+        "t12"
+      ]
+    }
+  ],
+  "calculated_metrics": {
+    "total_claims": 13,
+    "average_score": 0.9230769230769231,
+    "weighted_average_score": 1.1627906976744187,
+    "fully_reconstructed": 0,
+    "partially_reconstructed": 2,
+    "not_reconstructed": 11,
+    "by_type": {
+      "attribution": {
+        "count": 2,
+        "average_score": 1
+      },
+      "event": {
+        "count": 4,
+        "average_score": 1
+      },
+      "relationship": {
+        "count": 2,
+        "average_score": 0
+      },
+      "assessment": {
+        "count": 1,
+        "average_score": 6
+      },
+      "logistics": {
+        "count": 2,
+        "average_score": 0
+      },
+      "plan": {
+        "count": 2,
+        "average_score": 0
+      }
+    },
+    "by_importance": {
+      "2": {
+        "count": 2,
+        "average_score": 0
+      },
+      "3": {
+        "count": 6,
+        "average_score": 0.6666666666666666
+      },
+      "4": {
+        "count": 4,
+        "average_score": 0.5
+      },
+      "5": {
+        "count": 1,
+        "average_score": 6
+      }
+    }
+  },
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "total_tokens": 6962,
+    "cost_usd": 0.00100785
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "doc_id": "1976STATE032982",
+  "timestamp": "2026-02-12T19:31:03.543Z",
+  "claim_evaluations": [
+    {
+      "claim_id": "c1",
+      "claim_text": "1976 is an election year in Malta.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding the election year, and no other part of the reconstruction provides this specific detail.",
+      "evidence_refs": [
+        "t1"
+      ]
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "Both Mintoff's Laborites and the opposition Nationalists believe that Malta's strategic Mediterranean location will still be sufficiently valuable to NATO to justify continuation after 1979 of some form of annual monetary subsidy.",
+      "claim_type": "attribution",
+      "importance": 5,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding the political factions' beliefs about Malta's strategic value to NATO for future financial support.",
+      "evidence_refs": [
+        "t2"
+      ]
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The USG has serious doubts that Malta's strategic Mediterranean location will still be sufficiently valuable to NATO to justify continuation after 1979 of some form of annual monetary subsidy.",
+      "claim_type": "assessment",
+      "importance": 5,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding the USG's reservations about Malta's strategic importance to NATO for ongoing financial aid.",
+      "evidence_refs": [
+        "t3"
+      ]
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "It will be essential for the USG and NATO to reach conclusions concerning Malta's future as soon as possible after the 1976 elections to avoid another crisis management exercise resulting from Maltese blackmailing tactics.",
+      "claim_type": "plan",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding the crucial need for the USG and Alliance to decide on Malta's long-term status after elections.",
+      "evidence_refs": [
+        "t4"
+      ]
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "Bilateral U.S. interests in Malta have been, and will remain, limited.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The claim states U.S. interests are 'limited', while the reconstruction states 'Direct U.S.-Maltese relations were characterized as excellent'. These are different concepts; 'excellent relations' does not equate to 'limited interests'. The core meaning of the claim was missed.",
+      "evidence_refs": [
+        "t5"
+      ]
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "If NATO's Southern Tier remains intact, Malta in the 1980's might not matter that much to the other Alliance members either.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding conditions under which Malta's significance to Alliance members might be reduced.",
+      "evidence_refs": [
+        "t6"
+      ]
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "The 325,000 Maltese appear to be fairly evenly divided between support for Mintoff's Socialist Labor Party and the conservative Nationalist Party.",
+      "claim_type": "assessment",
+      "importance": 3,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding the population split. The synthesis mentions Mintoff's 'strong position' and opposition 'struggling', which contradicts the claim of being 'fairly evenly divided'.",
+      "evidence_refs": [
+        "t7",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "The Maltese Parliament's mandate expires in August 1976, and a general election is required by November 1976.",
+      "claim_type": "logistics",
+      "importance": 3,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding the Maltese Parliament's term expiration and election mandate.",
+      "evidence_refs": [
+        "t8"
+      ]
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "The Embassy leans to the view that Mintoff and the Labor Party probably will be reelected in a very close contest.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 6,
+      "justification": "The reconstruction correctly identifies the diplomatic mission's assessment that Mintoff and the Labor Party are in a strong position for reelection. However, it misses the detail of it being a 'very close contest', instead implying a less close outcome with the opposition 'facing significant challenges' and 'gerrymandering' anticipated.",
+      "evidence_refs": [
+        "t9"
+      ]
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "If the Nationalists return to power, there will be an opportunity for closer ties between Malta and the U.S. and possibly for resumption of Sixth Fleet visits, but only at a stiff price.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding opportunities and costs if the opposition party regains control.",
+      "evidence_refs": [
+        "t10"
+      ]
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The major U.S. interest in Malta is not a bilateral one, but part of the multilateral concern of the NATO Alliance regarding Mediterranean security.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding the primary nature of U.S. interest in Malta concerning regional security.",
+      "evidence_refs": [
+        "t11"
+      ]
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "The major U.S. policy objectives in Malta include denial of Soviet access to Malta, retention of Malta's military facilities for the West (including Sixth Fleet access), and continuation of Malta's ties to the West.",
+      "claim_type": "plan",
+      "importance": 5,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding main U.S. foreign policy aims in Malta.",
+      "evidence_refs": [
+        "t12"
+      ]
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "Mintoff's foreign policy continues to be the avoidance of involvement with either of the superpowers; hence, neither Soviet nor U.S. fleets are welcome in Malta.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 6,
+      "justification": "The reconstruction captures Mintoff's non-aligned foreign policy by mentioning engagement with non-aligned and Arab countries. It also implies issues with U.S. access by noting 'unhappiness and made serious charges against the US'. However, it does not explicitly state that 'neither Soviet nor U.S. fleets are welcome' and makes no mention of Soviet fleets.",
+      "evidence_refs": [
+        "t13",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "The revised British/Maltese Military Facilities Agreement (MFA), signed in March 1972, runs until March 31, 1979.",
+      "claim_type": "logistics",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding the signing and conclusion dates of the British/Maltese Military Facilities Agreement.",
+      "evidence_refs": [
+        "t14"
+      ]
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "The MFA specifically provides that the Government of Malta shall not permit the forces of any Warsaw Pact member to be stationed in Malta or to use Maltese military facilities.",
+      "claim_type": "logistics",
+      "importance": 5,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding specific restrictions in the defense agreement concerning Warsaw Pact forces.",
+      "evidence_refs": [
+        "t15"
+      ]
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "There continues to be a complete denial of access to Malta by any U.S. military or naval forces, including the Sixth Fleet, as long as Mintoff is Prime Minister.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding the status of U.S. armed forces access to Malta. While related content in t13 mentions 'unhappiness' with the US, it does not explicitly state 'complete denial of access' or link it to Mintoff's premiership.",
+      "evidence_refs": [
+        "t16",
+        "t13"
+      ]
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "Neither the Labor Party nor the Nationalist Party really has firm plans for what happens to Malta after 1977 or after the March 1979 expiration of the MFA.",
+      "claim_type": "assessment",
+      "importance": 5,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding the long-term planning of political parties for Malta's future.",
+      "evidence_refs": [
+        "t17"
+      ]
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "Malta's economic viability is clearly dependent on either some form of continued monetary subsidy or a significant new development like the discovery of offshore oil.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 7,
+      "justification": "The reconstruction effectively captures the core idea that Malta's economic viability is dependent on external support, listing 'new foreign investment', 'tourism industry', 'cheap oil and investment capital', and 'continued British military and economic presence'. While it doesn't explicitly mention 'monetary subsidy' or 'offshore oil discovery' as specific examples, it provides other valid forms of external economic dependence.",
+      "evidence_refs": [
+        "t18",
+        "c_q4",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c19",
+      "claim_text": "The British have stated that their decision to leave Malta by 1979 is firm and irrevocable.",
+      "claim_type": "attribution",
+      "importance": 5,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding the UK's stated position on its departure from Malta. While t13 mentions relief about no 'immediate withdrawal', it does not address the firmness or irrevocability of a 1979 departure.",
+      "evidence_refs": [
+        "t19",
+        "t13"
+      ]
+    },
+    {
+      "claim_id": "c20",
+      "claim_text": "The Embassy recommends the USG and other NATO governments should avoid any attempts to buy Mintoff's favor before the election, as such initiatives would be wasted and seen as taking sides.",
+      "claim_type": "plan",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question regarding the diplomatic mission's advice on engaging with Mintoff before the election.",
+      "evidence_refs": [
+        "t20"
+      ]
+    }
+  ],
+  "calculated_metrics": {
+    "total_claims": 20,
+    "average_score": 0.95,
+    "weighted_average_score": 0.9156626506024096,
+    "fully_reconstructed": 0,
+    "partially_reconstructed": 3,
+    "not_reconstructed": 17,
+    "by_type": {
+      "event": {
+        "count": 1,
+        "average_score": 0
+      },
+      "attribution": {
+        "count": 3,
+        "average_score": 2
+      },
+      "assessment": {
+        "count": 10,
+        "average_score": 1.3
+      },
+      "plan": {
+        "count": 3,
+        "average_score": 0
+      },
+      "logistics": {
+        "count": 3,
+        "average_score": 0
+      }
+    },
+    "by_importance": {
+      "3": {
+        "count": 3,
+        "average_score": 0
+      },
+      "4": {
+        "count": 11,
+        "average_score": 1.7272727272727273
+      },
+      "5": {
+        "count": 6,
+        "average_score": 0
+      }
+    }
+  },
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "total_tokens": 10131,
+    "cost_usd": 0.0015189
+  }
+}

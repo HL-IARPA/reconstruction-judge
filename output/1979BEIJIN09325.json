@@ -1,0 +1,149 @@
+{
+  "doc_id": "1979BEIJIN09325",
+  "timestamp": "2026-02-12T19:35:34.059Z",
+  "claim_evaluations": [
+    {
+      "claim_id": "c1",
+      "claim_text": "Chinese sources told foreign experts that some Chinese officials believe 'foreigner Guo Li' (William Guo), a former VISNEWS employee, sold evidence against 'counterrevolutionary' Wei Jingsheng to Chinese officials for one million dollars.",
+      "claim_type": "attribution",
+      "importance": 5,
+      "score": 0,
+      "justification": "No specific details of the claim were reconstructed. The names 'Guo Li', 'William Guo', 'VISNEWS', 'Wei Jingsheng', the specific amount 'one million dollars', or the specific attribution 'Chinese sources told foreign experts' are entirely missing. While 'selling state secrets' is mentioned generally, it is not linked to this specific narrative.",
+      "evidence_refs": []
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "According to the story, Guo sold a tape recording of Wei revealing 'military intelligence' to Reuter's correspondent Ian Mackenzie.",
+      "claim_type": "attribution",
+      "importance": 5,
+      "score": 0,
+      "justification": "No specific details of the claim were reconstructed. There is no mention of 'Guo', 'tape recording', 'Wei', 'military intelligence', or 'Ian Mackenzie'.",
+      "evidence_refs": []
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The tape recording was evidence that was used to convict Wei in his October 16 trial.",
+      "claim_type": "event",
+      "importance": 4,
+      "score": 0,
+      "justification": "No specific details of the claim were reconstructed. There is no mention of a 'tape recording' being used as evidence, nor of 'Wei' or an 'October 16 trial'. The general concept of 'prosecution' is present but not linked to this specific evidence or trial.",
+      "evidence_refs": []
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "It is difficult to imagine such a transaction taking place.",
+      "claim_type": "assessment",
+      "importance": 3,
+      "score": 4,
+      "justification": "The reconstruction captures the sentiment of 'implausibility' or 'difficulty to imagine' (assessed as implausible). However, it applies this assessment to a different alleged transaction (collusion with the Soviet Union by the 'Antiparty Conspiratorial Clique') rather than the specific transaction of selling evidence against Wei Jingsheng.",
+      "evidence_refs": [
+        "t4",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "The general belief among Wei's friends and other leading dissidents is that one or more foreigners provided evidence against Wei to Chinese Public Security officials.",
+      "claim_type": "attribution",
+      "importance": 5,
+      "score": 0,
+      "justification": "The claim that 'Wei's friends and other leading dissidents' believed 'foreigners provided evidence against Wei' is not reconstructed. The reconstruction discusses dissidents interacting with foreigners and accusations of selling state secrets, but not the specific belief about foreigners providing evidence *against* Wei.",
+      "evidence_refs": []
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "The experts and their contacts believe the story is being officially encouraged.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 6,
+      "justification": "The reconstruction captures the idea that 'certain observers' believe an 'official narrative' is being 'promoted' or 'encouraged'. However, the specific 'story' being encouraged is different (the 'Antiparty Conspiratorial Clique' colluding with the Soviet Union) from the one in the original claim (the Guo Li story).",
+      "evidence_refs": [
+        "t6",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "The story is being officially encouraged as another example of foreign involvement in the dissident movement.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 8,
+      "justification": "The reconstruction clearly states that a purpose for 'official promotion of the narrative' is 'concerning external participation in activist groups' and to 'justify the arrest and legal prosecution of individuals who get close to foreigners'. This substantially captures the idea of the story being encouraged as an example of 'foreign involvement in the dissident movement', although the specific 'story' is not named.",
+      "evidence_refs": [
+        "t7",
+        "synthesis",
+        "q1",
+        "th1"
+      ]
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "The story is being officially encouraged as an example of the unreliability of contacts with foreigners.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 8,
+      "justification": "Despite [t8] being unanswered, the synthesis explicitly mentions 'influencing public perception about the trustworthiness of non-nationals', and [q2] discusses authorities attempting to influence public perception regarding the 'trustworthiness and intentions of foreign individuals'. This substantially reconstructs the purpose of highlighting the 'unreliability of contacts with foreigners'.",
+      "evidence_refs": [
+        "synthesis",
+        "q2",
+        "q5"
+      ]
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "The story is being officially encouraged as an example of the danger of contacts with foreigners.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 9,
+      "justification": "The reconstruction explicitly addresses 'the risks of interactions with non-nationals' and links it to preventing 'selling state secrets' and justifying 'arrest and prosecution'. This very accurately captures the idea of the story being encouraged as an example of the 'danger of contacts with foreigners'. The specific 'story' is not named, but the purpose is fully captured.",
+      "evidence_refs": [
+        "t9",
+        "synthesis",
+        "q2",
+        "q3",
+        "th1"
+      ]
+    }
+  ],
+  "calculated_metrics": {
+    "total_claims": 9,
+    "average_score": 3.888888888888889,
+    "weighted_average_score": 3.5789473684210527,
+    "fully_reconstructed": 3,
+    "partially_reconstructed": 2,
+    "not_reconstructed": 4,
+    "by_type": {
+      "attribution": {
+        "count": 4,
+        "average_score": 1.5
+      },
+      "event": {
+        "count": 1,
+        "average_score": 0
+      },
+      "assessment": {
+        "count": 4,
+        "average_score": 7.25
+      }
+    },
+    "by_importance": {
+      "3": {
+        "count": 1,
+        "average_score": 4
+      },
+      "4": {
+        "count": 5,
+        "average_score": 6.2
+      },
+      "5": {
+        "count": 3,
+        "average_score": 0
+      }
+    }
+  },
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "total_tokens": 6086,
+    "cost_usd": 0.0009584999999999999
+  }
+}

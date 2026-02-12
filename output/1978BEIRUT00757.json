@@ -1,0 +1,249 @@
+{
+  "doc_id": "1978BEIRUT00757",
+  "timestamp": "2026-02-12T19:33:57.318Z",
+  "claim_evaluations": [
+    {
+      "claim_id": "c1",
+      "claim_text": "An uneasy cease-fire was in effect since around 2300 hours on February 9.",
+      "claim_type": "event",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for when the cessation of hostilities took effect, indicating no reconstruction of this claim.",
+      "evidence_refs": [
+        "t1"
+      ]
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The uneasy cease-fire was broken at about 1300 hours on February 10.",
+      "claim_type": "event",
+      "importance": 4,
+      "score": 2,
+      "justification": "The reconstruction correctly identified that a cessation of hostilities was disrupted, but the date (April 10, 1977 vs February 10) and time are completely incorrect. The specific details are largely missed.",
+      "evidence_refs": [
+        "t2"
+      ]
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "Syrian artillery began shelling Ayn Ar-Rummanah at about 1300 hours on February 10.",
+      "claim_type": "event",
+      "importance": 5,
+      "score": 1,
+      "justification": "The reconstruction mentions 'shelling' but attributes it to 'Christian forces at Qulayah' against 'Nabatiyah' on 'April 10,' which are all incorrect compared to the original claim of 'Syrian artillery' shelling 'Ayn Ar-Rummanah' on 'February 10.' Only the general concept of shelling is vaguely related.",
+      "evidence_refs": [
+        "t3"
+      ]
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "The Syrians stopped shelling Ayn Ar-Rummanah about 1400 hours on February 10.",
+      "claim_type": "event",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for when the shelling concluded, indicating no reconstruction of this claim.",
+      "evidence_refs": [
+        "t4"
+      ]
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "Sporadic small arms fire has occurred since about 1400 hours on February 10.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 4,
+      "justification": "The reconstruction captures the gist of intermittent gunfire ('Gun-fights were reported'), but the specific type ('small arms fire' vs 'gun-fights'), location ('West Beirut'), and date/time ('March 16, 1978' vs 'February 10') are significantly different.",
+      "evidence_refs": [
+        "t5"
+      ]
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "Local press reports that tension is rising as the deadline for the Commission of Inquiry's report nears the evening of February 10.",
+      "claim_type": "attribution",
+      "importance": 3,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for this question, indicating no reconstruction of this claim.",
+      "evidence_refs": [
+        "t6"
+      ]
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "EMBOFFs reported virtually no traffic in the streets of Ashrafiyah around 1600 hours on February 10.",
+      "claim_type": "attribution",
+      "importance": 3,
+      "score": 6,
+      "justification": "The reconstruction accurately captures the core observation of 'virtually no civilian traffic on the streets' and the source ('embassy officers'). However, the location ('Ayn Mreisse and the Hamra area of West Beirut' vs 'Ashrafiyah') and the date/time ('evening of March 16' vs '1600 hours on February 10') are incorrect. The main point is captured but with some inaccuracies.",
+      "evidence_refs": [
+        "t7"
+      ]
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "Lebanese Front leaders held an extraordinary meeting in Camille Chamoun's house in Ashrafiyah.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 4,
+      "justification": "The reconstruction correctly identifies that 'Front leaders met' and mentions 'Beirut,' but specifies 'KFUR Front' instead of 'Lebanese Front,' misses the 'extraordinary' nature, and does not identify 'Camille Chamoun's house' or 'Ashrafiyah.' The date is also different.",
+      "evidence_refs": [
+        "t8"
+      ]
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "Lebanese Front leaders issued a conciliatory statement at 1415 hours on February 10.",
+      "claim_type": "event",
+      "importance": 4,
+      "score": 6,
+      "justification": "The reconstruction correctly states that 'The Lebanese Front issued a statement.' However, it misses the 'conciliatory' nature, provides a different date ('May 2' vs 'February 10'), and includes different content for the statement. The core action and actor are correct.",
+      "evidence_refs": [
+        "t9"
+      ]
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "The conciliatory statement expressed regret at incidents involving \"friendly forces.\"",
+      "claim_type": "attribution",
+      "importance": 3,
+      "score": 2,
+      "justification": "The reconstruction mentions 'Diplomatic communications lamented several specific occurrences,' which captures the general idea of lamenting, but none of the specific occurrences listed match 'incidents involving 'friendly forces.'' The specific content is missed.",
+      "evidence_refs": [
+        "t10"
+      ]
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The conciliatory statement called for a joint investigative committee to decide who was responsible for the fighting.",
+      "claim_type": "attribution",
+      "importance": 3,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for this question, indicating no reconstruction of this claim.",
+      "evidence_refs": [
+        "t11"
+      ]
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "The conciliatory statement appealed to all parties to exercise restraint.",
+      "claim_type": "attribution",
+      "importance": 3,
+      "score": 1,
+      "justification": "The reconstruction mentions an agreement for a 'standstill cease-fire' between the Syrian Government and KFUR Front, which is not an appeal for restraint from a conciliatory statement issued by the Lebanese Front. The content and source are largely incorrect.",
+      "evidence_refs": [
+        "t12"
+      ]
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "The conciliatory statement expressed full confidence in President Sarkis.",
+      "claim_type": "attribution",
+      "importance": 3,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for this question, indicating no reconstruction of this claim.",
+      "evidence_refs": [
+        "t13"
+      ]
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "A Lebanese Front military officer told ARMA that the Front expected the Syrians to mount an offensive against East Beirut the evening of February 10.",
+      "claim_type": "attribution",
+      "importance": 5,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for this question, indicating no reconstruction of this claim.",
+      "evidence_refs": [
+        "t14"
+      ]
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "The Lebanese Front had prepared plans to counter the Syrians.",
+      "claim_type": "plan",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for this question, indicating no reconstruction of this claim.",
+      "evidence_refs": [
+        "t15"
+      ]
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "The Lebanese Front was confident it could repel the Syrians.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 2,
+      "justification": "The reconstruction mentions 'confidence' regarding an offensive, but attributes it to 'Palestinians' and their ability to 'resume their offensive,' which is significantly different from the 'Lebanese Front' being confident it could 'repel the Syrians.' The faction and specific action are incorrect.",
+      "evidence_refs": [
+        "t16"
+      ]
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "A Lebanese Front military officer said that an Israeli was in Lebanon.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for this question, indicating no reconstruction of this claim.",
+      "evidence_refs": [
+        "t17"
+      ]
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "A Lebanese Front military officer said that an Israeli had promised that the Israelis would give the Front any help it needed.",
+      "claim_type": "attribution",
+      "importance": 5,
+      "score": 2,
+      "justification": "The reconstruction mentions an 'assurance of support,' but the source is 'President Assad of Syria' (not an Israeli), the recipient is 'Pierre Gemayel, leader of the Phalange Party' (not the Lebanese Front), and the content is 'Syria has no designs on Lebanon' (not 'any help it needed'). The core idea of an assurance is present, but all specific details are incorrect.",
+      "evidence_refs": [
+        "t18"
+      ]
+    }
+  ],
+  "calculated_metrics": {
+    "total_claims": 18,
+    "average_score": 1.6666666666666667,
+    "weighted_average_score": 1.5820895522388059,
+    "fully_reconstructed": 0,
+    "partially_reconstructed": 4,
+    "not_reconstructed": 14,
+    "by_type": {
+      "event": {
+        "count": 7,
+        "average_score": 2.4285714285714284
+      },
+      "attribution": {
+        "count": 9,
+        "average_score": 1.2222222222222223
+      },
+      "plan": {
+        "count": 1,
+        "average_score": 0
+      },
+      "assessment": {
+        "count": 1,
+        "average_score": 2
+      }
+    },
+    "by_importance": {
+      "3": {
+        "count": 8,
+        "average_score": 2.125
+      },
+      "4": {
+        "count": 7,
+        "average_score": 1.4285714285714286
+      },
+      "5": {
+        "count": 3,
+        "average_score": 1
+      }
+    }
+  },
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "total_tokens": 10196,
+    "cost_usd": 0.0013915499999999999
+  }
+}

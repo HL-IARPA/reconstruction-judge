@@ -1,0 +1,151 @@
+{
+  "doc_id": "1977NATO01408",
+  "timestamp": "2026-02-12T19:33:27.983Z",
+  "claim_evaluations": [
+    {
+      "claim_id": "c1",
+      "claim_text": "STAFFDEL returned to the mission on the afternoon of March 11 for a brief follow-on discussion with the Deputy Defense Advisor.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 8,
+      "justification": "The reconstruction correctly identified the staff delegation, their return to the mission (USNATO), and the date (March 11) for a follow-on discussion. It missed the specific detail of meeting with the 'Deputy Defense Advisor'.",
+      "evidence_refs": [
+        "t1",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The discussion was on the subject of EUCOM collocation.",
+      "claim_type": "logistics",
+      "importance": 3,
+      "score": 2,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question directly asking about the topic of the follow-up discussion. While the general topic of EUCOM collocation is present in other parts of the reconstruction, it is not specifically linked to this particular discussion.",
+      "evidence_refs": [
+        "t2"
+      ]
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "No new ground was plowed during the discussion.",
+      "claim_type": "assessment",
+      "importance": 3,
+      "score": 0,
+      "justification": "The reconstruction directly contradicts the claim. The analyst's answer states that officials 'benefited from the informal exchange of views' and the Staffdel 'gained a better understanding of the political factors', implying new ground was indeed plowed.",
+      "evidence_refs": [
+        "t3"
+      ]
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "STAFFDEL's questions centered on the potential reaction of allies other than Belgium and FRG to a move.",
+      "claim_type": "event",
+      "importance": 4,
+      "score": 4,
+      "justification": "The reconstruction captured that the staff delegation's inquiries centered on the 'potential reactions of allied nations' and specifically mentioned 'Americanization' as a key concern. However, it failed to specify 'allies other than Belgium and FRG', and in fact, other parts of the reconstruction frequently mention Belgium and Germany in the context of allied concerns.",
+      "evidence_refs": [
+        "t4",
+        "x2",
+        "x3",
+        "th2"
+      ]
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "Talley and Gies said they expect their final report will go to the Subcommittee on Military Construction in two weeks.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for the question directly related to the report submission. No details about Talley and Gies, their report, the Subcommittee on Military Construction, or the 'two weeks' timeframe were reconstructed.",
+      "evidence_refs": [
+        "t5"
+      ]
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "According to Talley, the Subcommittee on Military Construction is not yet aware of the political implications related to the collocation question.",
+      "claim_type": "attribution",
+      "importance": 5,
+      "score": 7,
+      "justification": "The reconstruction captured the core idea that a congressional group ('House Appropriations Committee Staffdel') had 'little appreciation of the political factors' (i.e., was not yet aware of political implications). However, it did not explicitly name 'Talley' as the source or specify the 'Subcommittee on Military Construction', instead referring to the 'House Appropriations Committee Staffdel'.",
+      "evidence_refs": [
+        "t6",
+        "th1",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "Gies said he believes the Subcommittee members will be disturbed if money is asked for before negotiations have opened with Belgium and the FRG.",
+      "claim_type": "attribution",
+      "importance": 5,
+      "score": 9,
+      "justification": "The reconstruction is substantially correct. It accurately identifies Talley and Gies's concern that 'congressional funding process... might outpace the necessary political consultations with Belgium, the Federal Republic of Germany (FRG), and other allies'. This closely matches the claim that 'Subcommittee members will be disturbed if money is asked for before negotiations have opened'. The nuance of 'disturbed' versus 'concerned' is minor.",
+      "evidence_refs": [
+        "t7",
+        "t8",
+        "x1",
+        "x3",
+        "th2",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "Talley and Gies say they intend to describe the potential political issues in their report.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 6,
+      "justification": "The reconstruction correctly identified Talley and Gies and the 'potential political issues' (funding outpacing consultations). However, it did not explicitly state their 'intent to describe' these issues 'in their report'. It only conveyed their concern about these issues.",
+      "evidence_refs": [
+        "t7",
+        "t8"
+      ]
+    }
+  ],
+  "calculated_metrics": {
+    "total_claims": 8,
+    "average_score": 4.5,
+    "weighted_average_score": 4.838709677419355,
+    "fully_reconstructed": 2,
+    "partially_reconstructed": 3,
+    "not_reconstructed": 3,
+    "by_type": {
+      "event": {
+        "count": 2,
+        "average_score": 6
+      },
+      "logistics": {
+        "count": 1,
+        "average_score": 2
+      },
+      "assessment": {
+        "count": 1,
+        "average_score": 0
+      },
+      "attribution": {
+        "count": 4,
+        "average_score": 5.5
+      }
+    },
+    "by_importance": {
+      "3": {
+        "count": 3,
+        "average_score": 3.3333333333333335
+      },
+      "4": {
+        "count": 3,
+        "average_score": 3.3333333333333335
+      },
+      "5": {
+        "count": 2,
+        "average_score": 8
+      }
+    }
+  },
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "total_tokens": 6614,
+    "cost_usd": 0.000963
+  }
+}

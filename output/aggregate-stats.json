@@ -1,0 +1,157 @@
+{
+  "total_documents": 15,
+  "total_claims": 210,
+  "overall": {
+    "average_score": 3.480952380952381,
+    "weighted_average_score": 3.58128078817734,
+    "pct_fully_reconstructed": 23.809523809523807,
+    "pct_partially_reconstructed": 18.095238095238095,
+    "pct_not_reconstructed": 58.0952380952381
+  },
+  "by_claim_type": {
+    "attribution": {
+      "count": 54,
+      "average_score": 2.8703703703703702,
+      "pct_reconstructed": 14.814814814814813
+    },
+    "event": {
+      "count": 38,
+      "average_score": 2.6842105263157894,
+      "pct_reconstructed": 15.789473684210526
+    },
+    "relationship": {
+      "count": 5,
+      "average_score": 4.8,
+      "pct_reconstructed": 40
+    },
+    "assessment": {
+      "count": 85,
+      "average_score": 4.094117647058823,
+      "pct_reconstructed": 30.58823529411765
+    },
+    "logistics": {
+      "count": 11,
+      "average_score": 3.8181818181818183,
+      "pct_reconstructed": 36.36363636363637
+    },
+    "plan": {
+      "count": 17,
+      "average_score": 3.5294117647058822,
+      "pct_reconstructed": 23.52941176470588
+    }
+  },
+  "by_importance": {
+    "2": {
+      "count": 5,
+      "average_score": 1.6,
+      "pct_reconstructed": 20
+    },
+    "3": {
+      "count": 56,
+      "average_score": 2.5357142857142856,
+      "pct_reconstructed": 10.714285714285714
+    },
+    "4": {
+      "count": 111,
+      "average_score": 3.954954954954955,
+      "pct_reconstructed": 29.72972972972973
+    },
+    "5": {
+      "count": 38,
+      "average_score": 3.736842105263158,
+      "pct_reconstructed": 26.31578947368421
+    }
+  },
+  "by_document": [
+    {
+      "doc_id": "1975KUALA05712",
+      "claim_count": 13,
+      "average_score": 0.9230769230769231,
+      "weighted_average_score": 1.1627906976744187
+    },
+    {
+      "doc_id": "1976SINGAP02176",
+      "claim_count": 13,
+      "average_score": 2.076923076923077,
+      "weighted_average_score": 1.74
+    },
+    {
+      "doc_id": "1976STATE032982",
+      "claim_count": 20,
+      "average_score": 0.95,
+      "weighted_average_score": 0.9156626506024096
+    },
+    {
+      "doc_id": "1976STATE273248",
+      "claim_count": 20,
+      "average_score": 9.95,
+      "weighted_average_score": 9.952941176470588
+    },
+    {
+      "doc_id": "1977CAIRO06655",
+      "claim_count": 7,
+      "average_score": 2.4285714285714284,
+      "weighted_average_score": 2.6666666666666665
+    },
+    {
+      "doc_id": "1977LONDON06541",
+      "claim_count": 13,
+      "average_score": 2.230769230769231,
+      "weighted_average_score": 2.297872340425532
+    },
+    {
+      "doc_id": "1977NATO01274",
+      "claim_count": 20,
+      "average_score": 7.25,
+      "weighted_average_score": 7.394736842105263
+    },
+    {
+      "doc_id": "1977NATO01408",
+      "claim_count": 8,
+      "average_score": 4.5,
+      "weighted_average_score": 4.838709677419355
+    },
+    {
+      "doc_id": "1978BEIRUT00757",
+      "claim_count": 18,
+      "average_score": 1.6666666666666667,
+      "weighted_average_score": 1.5820895522388059
+    },
+    {
+      "doc_id": "1978HONGK05065",
+      "claim_count": 11,
+      "average_score": 0.9090909090909091,
+      "weighted_average_score": 0.8837209302325582
+    },
+    {
+      "doc_id": "1978PARIS29548",
+      "claim_count": 12,
+      "average_score": 5.583333333333333,
+      "weighted_average_score": 5.863636363636363
+    },
+    {
+      "doc_id": "1978ROME14520",
+      "claim_count": 14,
+      "average_score": 3.142857142857143,
+      "weighted_average_score": 3.6226415094339623
+    },
+    {
+      "doc_id": "1978STATE215093",
+      "claim_count": 18,
+      "average_score": 1.1111111111111112,
+      "weighted_average_score": 1.178082191780822
+    },
+    {
+      "doc_id": "1978TRIPOL01121",
+      "claim_count": 14,
+      "average_score": 2.9285714285714284,
+      "weighted_average_score": 2.7115384615384617
+    },
+    {
+      "doc_id": "1979BEIJIN09325",
+      "claim_count": 9,
+      "average_score": 3.888888888888889,
+      "weighted_average_score": 3.5789473684210527
+    }
+  ]
+}

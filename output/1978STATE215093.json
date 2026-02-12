@@ -1,0 +1,257 @@
+{
+  "doc_id": "1978STATE215093",
+  "timestamp": "2026-02-12T19:35:04.128Z",
+  "claim_evaluations": [
+    {
+      "claim_id": "c1",
+      "claim_text": "Quai Director for Africa (Georgy) believes the Soviets maintain their ambitions for expansion in Africa.",
+      "claim_type": "assessment",
+      "importance": 5,
+      "score": 1,
+      "justification": "The reconstruction mentions 'rebutting accusations of Soviet 'expansionism'' which is the opposite of the claim. It also attributes assessments to Journiac, not Georgy. The core idea of Georgy believing in Soviet expansionist ambitions is missed.",
+      "evidence_refs": [
+        "t1",
+        "q1",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "Georgy thinks the Soviets are currently taking one step back in Africa to avoid confrontation with the West.",
+      "claim_type": "assessment",
+      "importance": 5,
+      "score": 4,
+      "justification": "The reconstruction describes a pragmatic approach by Soviets (allowing Western economic aid while maintaining political control) which could be interpreted as a form of 'stepping back' from direct confrontation. However, the specific phrasing 'one step back' and the attribution to Georgy are missing. The official mentioned is Journiac.",
+      "evidence_refs": [
+        "t2",
+        "th1",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The Soviets stressed the need to \"de-dramatize\" the African situation.",
+      "claim_type": "event",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction does not contain any information about the Soviets stressing the need to 'de-dramatize' the African situation.",
+      "evidence_refs": [
+        "t3"
+      ]
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "Georgy reports that the Soviets appeared to value the opportunity to discuss Africa with the French.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 7,
+      "justification": "The reconstruction confirms that Franco-Soviet consultations on Africa took place and that the Soviets were willing to discuss regional security issues, implying they valued the opportunity. However, the specific nuance of 'appeared to value the opportunity' and the attribution to Georgy are missing.",
+      "evidence_refs": [
+        "q2",
+        "q5",
+        "th2",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "The Soviets told Georgy they cannot discuss Africa with other powers.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction states 'Unable to answer' for the relevant question and provides no other information about Soviets being unable to discuss Africa with other powers.",
+      "evidence_refs": [
+        "t5"
+      ]
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "The Soviets stated that discussions with the US always come back to strategic issues such as SALT.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction states 'Unable to answer' for the relevant question and provides no other information about Soviet discussions with the US always returning to strategic issues.",
+      "evidence_refs": [
+        "t6"
+      ]
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "Georgy thought the Soviets had little real understanding of the complexities and fragility of African affairs.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The answer to the relevant question discusses Soviet support for Angola's economic openings, not their understanding of the complexities and fragility of African affairs. The attribution is also to Journiac, not Georgy.",
+      "evidence_refs": [
+        "t7"
+      ]
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "Georgy surmised that the Soviets were in the process of taking one step back after trying to take two big steps forward and meeting Western resistance.",
+      "claim_type": "assessment",
+      "importance": 5,
+      "score": 2,
+      "justification": "The reconstruction states 'Unable to answer' for the direct question. While [th1] discusses adjusting strategy due to Western resistance, it does not capture the specific 'two big steps forward, one step back' metaphor or attribute it to Georgy.",
+      "evidence_refs": [
+        "t8",
+        "th1"
+      ]
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "Georgy said the Soviets appeared to see the Western role in Africa in terms of encirclement of the Soviet Union.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 4,
+      "justification": "The reconstruction states Soviets viewed Western involvement as an effort to maintain control over resources and characterized NATO actions negatively. However, the specific concept of 'encirclement of the Soviet Union' is missing. The attribution is to 'Soviet representatives, as reported in the Soviet press,' not Georgy.",
+      "evidence_refs": [
+        "t9",
+        "q3",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "Georgy said the Soviets claimed the US airlift of troops to Shaba was part of a broad NATO strategy.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 1,
+      "justification": "The reconstruction mentions a U.S. military mission to Somalia, not an airlift to Shaba. It describes it as supplying weapons, not an airlift of troops, and does not link it to a 'broad NATO strategy.'",
+      "evidence_refs": [
+        "t10",
+        "q3"
+      ]
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "Georgy believes the Soviets have an important interest in stability in North Africa.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction states 'Unable to answer' for the relevant question and provides no other information about Soviet interest in North African stability.",
+      "evidence_refs": [
+        "t11",
+        "q4"
+      ]
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "Georgy said the expansion of Soviet ties with Morocco has placed the Soviets in a position where they wish to avoid choosing sides between the Algerians and the Moroccans.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction states 'Unable to answer' for the relevant question and provides no other information about Soviets avoiding choosing sides between Algerians and Moroccans.",
+      "evidence_refs": [
+        "t12"
+      ]
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "Georgy believes the Soviets would probably \"do what was necessary\" to make possible a settlement in the Sahara.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction states 'Unable to answer' for the relevant question and provides no other information about Soviets facilitating a settlement in the Sahara.",
+      "evidence_refs": [
+        "t13"
+      ]
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "Georgy said the Soviets were deeply troubled by Qadhafi because of his adventurism and religious fanaticism.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction states 'Unable to answer' for the relevant question and provides no other information about Soviets being troubled by Qadhafi.",
+      "evidence_refs": [
+        "t14"
+      ]
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "Georgy noted that the Soviets were particularly angered that Jalloud chose to visit Peking when the Sino-Japanese Peace and Friendship Treaty was signed.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction states 'Unable to answer' for the relevant question and provides no other information about Soviets being angered by Jalloud's visit to Peking.",
+      "evidence_refs": [
+        "t15"
+      ]
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "Georgy thought the consultations had been worthwhile.",
+      "claim_type": "assessment",
+      "importance": 3,
+      "score": 0,
+      "justification": "The reconstruction states 'Unable to answer' for the relevant question and provides no information about Georgy's assessment of the consultations' worthwhileness.",
+      "evidence_refs": [
+        "t16"
+      ]
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "The cable's author would not be surprised if the consultations were to become a regular feature of Franco-Soviet relations.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction states 'Unable to answer' for the relevant question and provides no information about the cable's author's anticipation regarding the regularity of consultations.",
+      "evidence_refs": [
+        "t17"
+      ]
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "Quai Director for Africa (Georgy) returned from two days of intensive consultations in Moscow on Africa, August 9-10.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 1,
+      "justification": "The reconstruction correctly identifies that a French official conducted extensive discussions on African matters. However, it incorrectly identifies the official as Journiac (not Georgy), the location as Paris (not Moscow), and omits the dates.",
+      "evidence_refs": [
+        "t18"
+      ]
+    }
+  ],
+  "calculated_metrics": {
+    "total_claims": 18,
+    "average_score": 1.1111111111111112,
+    "weighted_average_score": 1.178082191780822,
+    "fully_reconstructed": 0,
+    "partially_reconstructed": 3,
+    "not_reconstructed": 15,
+    "by_type": {
+      "assessment": {
+        "count": 8,
+        "average_score": 0.875
+      },
+      "event": {
+        "count": 2,
+        "average_score": 0.5
+      },
+      "attribution": {
+        "count": 8,
+        "average_score": 1.5
+      }
+    },
+    "by_importance": {
+      "3": {
+        "count": 2,
+        "average_score": 0.5
+      },
+      "4": {
+        "count": 13,
+        "average_score": 0.9230769230769231
+      },
+      "5": {
+        "count": 3,
+        "average_score": 2.3333333333333335
+      }
+    }
+  },
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "total_tokens": 7212,
+    "cost_usd": 0.0014074499999999998
+  }
+}

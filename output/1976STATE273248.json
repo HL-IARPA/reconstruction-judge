@@ -1,0 +1,330 @@
+{
+  "doc_id": "1976STATE273248",
+  "timestamp": "2026-02-12T19:31:37.598Z",
+  "claim_evaluations": [
+    {
+      "claim_id": "c1",
+      "claim_text": "A more intensive effort will be needed to induce the FRG to be more forthcoming about AWACS at the December DPC Ministerial.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed, almost verbatim, in `[t1]`. The synthesis and `[q1]` also reinforce the need for an intensive effort.",
+      "evidence_refs": [
+        "t1",
+        "q1",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The cable's author cannot endorse Embassy London's recommendation that it be authorized to inform the UK of the proposed demarche.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed, with `[t20]` directly stating the author's non-concurrence with Embassy London's recommendation to inform the British of diplomatic overtures (demarches). `[t2]`, `[q4]`, and `[synthesis]` provide further supporting details.",
+      "evidence_refs": [
+        "t2",
+        "t20",
+        "q4",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "British-German friction on Alliance military matters is currently on the rise.",
+      "claim_type": "relationship",
+      "importance": 5,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed, with multiple sources explicitly stating the rising British-German friction on alliance military matters.",
+      "evidence_refs": [
+        "t2",
+        "t3",
+        "q2",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "It makes little sense for the US to get in the middle of British-German friction.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed, with multiple sources explicitly stating that American interests would not be served by getting in the middle of British-German disputes or playing favorites.",
+      "evidence_refs": [
+        "t2",
+        "t4",
+        "t19",
+        "q4",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "Minister Leber told the cable's author on November 3 that he was convinced of the importance of the AEW system and positively disposed towards the concept.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 9,
+      "justification": "The core of the claim is substantially reconstructed in `[t5]`, including Leber's conviction about the importance and positive disposition towards AEW. The exact date 'November 3' is generalized to 'early November 1976', and it doesn't explicitly state 'told the cable's author' but implies it through the context of the cable.",
+      "evidence_refs": [
+        "t5",
+        "q1",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "The FRG lacked confidence that AWACS would function as intended.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed, with multiple sources explicitly stating the FRG's lack of confidence that AWACS would function as intended.",
+      "evidence_refs": [
+        "t6",
+        "t7",
+        "q1",
+        "q3",
+        "q5",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "The FRG remains unconvinced that AWACS is sufficiently well developed or cost-studied to warrant a NATO commitment to purchase it at this time.",
+      "claim_type": "assessment",
+      "importance": 5,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed, with multiple sources explicitly stating the FRG's belief that AWACS was not sufficiently well-developed or cost-studied to warrant a NATO commitment at that time.",
+      "evidence_refs": [
+        "t6",
+        "t7",
+        "q1",
+        "q3",
+        "q5",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "A personal approach to Leber from Secretary Rumsfeld would appear to be the best hope of changing this FRG position.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed, with `[t8]` explicitly stating that a personal intervention by Secretary Rumsfeld with Minister Leber was the 'most promising method' (best hope) to change the FRG's position. Other sources also support this.",
+      "evidence_refs": [
+        "t1",
+        "t8",
+        "q1",
+        "q4",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "The scheduling of payments is a major concern for the Germans regarding AEW.",
+      "claim_type": "logistics",
+      "importance": 4,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed, with multiple sources explicitly stating that the scheduling of payments was a major concern for the FRG regarding AEW.",
+      "evidence_refs": [
+        "t7",
+        "t9",
+        "q1",
+        "q3",
+        "q5",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "It would ease matters considerably for the FRG if its participation in an AEW program involved smaller payments in the initial years balanced by larger payments in later years.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed, with `[t10]` explicitly stating that such a payment arrangement would 'significantly ease their concerns' (ease matters considerably) for the FRG. Other sources also detail the desired payment structure.",
+      "evidence_refs": [
+        "t7",
+        "t9",
+        "t10",
+        "q3",
+        "q5"
+      ]
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The FRG has emphasized that a NATO AEW program must be a truly NATO effort, not one of a few NATO allies.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed, with multiple sources explicitly stating the FRG's emphasis on a NATO AEW program being a truly NATO effort, not just involving a few allies.",
+      "evidence_refs": [
+        "t7",
+        "t11",
+        "q1",
+        "q3",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "The technical complexities of incorporating a NATO AEW into the current ground system is a major German concern.",
+      "claim_type": "logistics",
+      "importance": 4,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed, with multiple sources explicitly stating the German concern about the technical complexities of incorporating a NATO AEW into the existing ground system.",
+      "evidence_refs": [
+        "t7",
+        "t12",
+        "q1",
+        "q3",
+        "q5",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "The German military services are uniformly opposed to AWACS because they regard it as a threat to programs they have already endorsed and budgeted.",
+      "claim_type": "assessment",
+      "importance": 5,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed, with multiple sources explicitly stating the uniform opposition of German military services to AWACS due to it being a threat to their endorsed and budgeted programs.",
+      "evidence_refs": [
+        "t7",
+        "t13",
+        "q1",
+        "q3",
+        "q5",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "The civilian leadership has been unable to overcome the reluctance of the German military services.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed in `[t14]`, explicitly stating the civilian leadership's inability to overcome the military services' reluctance. `[q3]` provides additional context.",
+      "evidence_refs": [
+        "t14",
+        "q3"
+      ]
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "The cable's author is inclined to view the German reservation regarding the ground support system as a serious one.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed in `[t15]`, explicitly stating the cable's author viewed the German reservation regarding the ground support system as a serious concern.",
+      "evidence_refs": [
+        "t15"
+      ]
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "From discussions with non-German sources, the cable's author has the impression that perhaps the FRG has raised the issue of the ground support system to use AWACS for improving the NADGE system.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed in `[t16]`, explicitly detailing the author's impression from non-German sources about the FRG's motive to use AWACS for improving the NADGE system. `[t15]`, `[q1]`, and `[synthesis]` also support this.",
+      "evidence_refs": [
+        "t15",
+        "t16",
+        "q1",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "The tension building between the Germans and the British worries the cable's author most.",
+      "claim_type": "assessment",
+      "importance": 5,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed in `[t17]`, explicitly stating that the tension between the Germans and the British was the cable's author's 'greatest concern' (worries most).",
+      "evidence_refs": [
+        "t17"
+      ]
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "Brandt on the German side suggested that the British would turn down the tank gun offer simply for reasons of prestige.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed in `[t18]`, explicitly attributing the suggestion to General Brandt and the reason for declining the tank gun offer to 'prestige reasons'. `[q2]` provides further context.",
+      "evidence_refs": [
+        "t18",
+        "q2",
+        "th3"
+      ]
+    },
+    {
+      "claim_id": "c19",
+      "claim_text": "The cable's author believes American interests will not be served by the US stepping into the middle of the British-German dispute.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed, with `[t19]` explicitly stating the cable's author's belief that American interests would not be served by intervening in the British-German dispute. Other sources also support this.",
+      "evidence_refs": [
+        "t2",
+        "t4",
+        "t19",
+        "q4",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c20",
+      "claim_text": "The cable's author does not concur with London's recommendation to inform the British of any further demarche the US might make to the Germans, except perhaps in a very general way.",
+      "claim_type": "assessment",
+      "importance": 5,
+      "score": 10,
+      "justification": "The claim is perfectly reconstructed. `[t20]` captures the non-concurrence with informing the British of further diplomatic overtures, and `[q4]` adds the nuance of 'except in very general terms'.",
+      "evidence_refs": [
+        "t20",
+        "q4",
+        "synthesis"
+      ]
+    }
+  ],
+  "calculated_metrics": {
+    "total_claims": 20,
+    "average_score": 9.95,
+    "weighted_average_score": 9.952941176470588,
+    "fully_reconstructed": 20,
+    "partially_reconstructed": 0,
+    "not_reconstructed": 0,
+    "by_type": {
+      "assessment": {
+        "count": 13,
+        "average_score": 10
+      },
+      "relationship": {
+        "count": 1,
+        "average_score": 10
+      },
+      "attribution": {
+        "count": 4,
+        "average_score": 9.75
+      },
+      "logistics": {
+        "count": 2,
+        "average_score": 10
+      }
+    },
+    "by_importance": {
+      "4": {
+        "count": 15,
+        "average_score": 9.933333333333334
+      },
+      "5": {
+        "count": 5,
+        "average_score": 10
+      }
+    }
+  },
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "total_tokens": 13135,
+    "cost_usd": 0.00202815
+  }
+}

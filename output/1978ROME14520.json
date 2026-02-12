@@ -1,0 +1,201 @@
+{
+  "doc_id": "1978ROME14520",
+  "timestamp": "2026-02-12T19:34:47.453Z",
+  "claim_evaluations": [
+    {
+      "claim_id": "c1",
+      "claim_text": "The USG followed up an earlier demarche (Ref B) with MFA Director for Middle Eastern Affairs Santarelli on August 7, 1978.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 7,
+      "justification": "The reconstruction correctly identifies a USG follow-up demarche but gets the date wrong (September 13 instead of August 7, 1978) and generalizes the specific official (a foreign ministry official instead of MFA Director for Middle Eastern Affairs Santarelli).",
+      "evidence_refs": [
+        "t1"
+      ]
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "Santarelli said that the French informed the Italians about the origin of weapons used in a terrorist incident at Orly.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for this question, and no other part of the reconstruction provides this specific information.",
+      "evidence_refs": [
+        "t2"
+      ]
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "Santarelli said that the MFA instructed the Italian Ambassador in Tripoli to raise the issue with the Libyans.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction incorrectly attributes the demarche to the French Ambassador in Tripoli, as reported by Quai Deputy Director Albis, rather than stating that Santarelli said the Italian MFA instructed the Italian Ambassador in Tripoli to raise the issue. The key actors and their nationalities are incorrect.",
+      "evidence_refs": [
+        "t3"
+      ]
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "The GOL has not yet responded to the demarche.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 0,
+      "justification": "The reconstruction directly contradicts the claim, stating that the GOL *did* provide a response, whereas the original claim states it 'has not yet responded.'",
+      "evidence_refs": [
+        "t4"
+      ]
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "The Italians are satisfied that the GOL knows that the GOI knows of Libyan supply of Italian arms to terrorists.",
+      "claim_type": "assessment",
+      "importance": 5,
+      "score": 7,
+      "justification": "The reconstruction captures the main point that the Libyan government is aware that Italian-made weapons supplied to Libya were used in a terrorist incident. However, it generalizes 'Italians' to 'European officials' and misses the specific nuance that the Italians are 'satisfied' with this knowledge.",
+      "evidence_refs": [
+        "t5"
+      ]
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "Santarelli cautioned that the foregoing information is considered very sensitive in the GOI.",
+      "claim_type": "attribution",
+      "importance": 4,
+      "score": 6,
+      "justification": "The reconstruction identifies that the Italian government considers the matter sensitive due to its relations with Libya, which aligns with the claim's core idea of sensitivity. However, it misses the specific attribution to Santarelli and frames the sensitivity slightly differently (relations with Libya vs. the information itself).",
+      "evidence_refs": [
+        "t6"
+      ]
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "Santarelli cautioned that the foregoing information is for USG information only.",
+      "claim_type": "attribution",
+      "importance": 3,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for this question, and no other part of the reconstruction provides this specific information.",
+      "evidence_refs": [
+        "t7"
+      ]
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "Santarelli cautioned that the foregoing information should not be discussed with Italian diplomats elsewhere or with other governments.",
+      "claim_type": "attribution",
+      "importance": 3,
+      "score": 0,
+      "justification": "The analyst explicitly stated 'Unable to answer' for this question, and no other part of the reconstruction provides this specific information.",
+      "evidence_refs": [
+        "t8"
+      ]
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "Santarelli said the MFA is not clear about exactly what is intended regarding a joint demarche.",
+      "claim_type": "attribution",
+      "importance": 3,
+      "score": 4,
+      "justification": "The reconstruction indicates Italian reluctance and questioning of a collaborative demarche, which is related to the claim. However, it misses the specific nuance of the MFA being 'not clear about exactly what is intended' and attributes the information to 'unofficial comments from Middle East Desk officers' rather than Santarelli.",
+      "evidence_refs": [
+        "t9"
+      ]
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "The Italians are not necessarily opposed to the idea of a further demarche.",
+      "claim_type": "assessment",
+      "importance": 3,
+      "score": 0,
+      "justification": "The reconstruction states that Italian officials are 'reluctant or disinclined' and 'not eager to pursue' additional diplomatic representations, which directly contradicts the claim that they are 'not necessarily opposed.'",
+      "evidence_refs": [
+        "t10"
+      ]
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The Italians feel that they have already registered their reaction in a bilateral approach.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction incorrectly attributes this belief and action to 'French officials' rather than 'Italians.'",
+      "evidence_refs": [
+        "t11"
+      ]
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "For political and economic reasons, the USG does not believe the Italians would be willing to join in a \"tough demarche\" to the Libyans on this issue.",
+      "claim_type": "assessment",
+      "importance": 5,
+      "score": 10,
+      "justification": "All elements of the claim are perfectly reconstructed, including the USG's assessment, Italy's disinclination to join a strong demarche, and the specific political and economic reasons related to Italian-Libyan relations.",
+      "evidence_refs": [
+        "t12"
+      ]
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "From the Italian point of view, they have already taken a courageous step in confronting the GOL with their knowledge of weapons supply.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 0,
+      "justification": "The reconstruction incorrectly attributes the action and perspective to 'French officials' rather than 'Italian point of view.'",
+      "evidence_refs": [
+        "t13"
+      ]
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "The Italians are not likely to want to pursue the issue with the GOL any further.",
+      "claim_type": "assessment",
+      "importance": 5,
+      "score": 10,
+      "justification": "The reconstruction perfectly captures the claim, explicitly stating that the Italian government 'will not REPEAT NOT be eager to pursue this matter with Tripoli,' which directly aligns with 'not likely to want to pursue the issue with the GOL any further.'",
+      "evidence_refs": [
+        "t14"
+      ]
+    }
+  ],
+  "calculated_metrics": {
+    "total_claims": 14,
+    "average_score": 3.142857142857143,
+    "weighted_average_score": 3.6226415094339623,
+    "fully_reconstructed": 2,
+    "partially_reconstructed": 4,
+    "not_reconstructed": 8,
+    "by_type": {
+      "event": {
+        "count": 2,
+        "average_score": 3.5
+      },
+      "attribution": {
+        "count": 6,
+        "average_score": 1.6666666666666667
+      },
+      "assessment": {
+        "count": 6,
+        "average_score": 4.5
+      }
+    },
+    "by_importance": {
+      "3": {
+        "count": 6,
+        "average_score": 1.8333333333333333
+      },
+      "4": {
+        "count": 5,
+        "average_score": 1.2
+      },
+      "5": {
+        "count": 3,
+        "average_score": 9
+      }
+    }
+  },
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "total_tokens": 7951,
+    "cost_usd": 0.0012014999999999999
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "doc_id": "1977LONDON06541",
+  "timestamp": "2026-02-12T19:32:15.620Z",
+  "claim_evaluations": [
+    {
+      "claim_id": "c1",
+      "claim_text": "The FCO wishes to hold up discussion of the British Study on Israeli Security Requirements.",
+      "claim_type": "plan",
+      "importance": 4,
+      "score": 2,
+      "justification": "The synthesis vaguely alludes to controlling information flow and awaiting senior leadership decisions, which could imply holding up discussion. However, it does not specifically mention 'discussion' of 'the British Study on Israeli Security Requirements'.",
+      "evidence_refs": [
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The FCO formally passed copies of the British Study on Israeli Security Requirements to the Embassy on the morning of April 21, 1977.",
+      "claim_type": "event",
+      "importance": 4,
+      "score": 0,
+      "justification": "No relevant information was found in the reconstruction attempt.",
+      "evidence_refs": []
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The Embassy pouched two copies of the British Study on Israeli Security Requirements to the Department for Day and Kontos on April 21, 1977.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 0,
+      "justification": "No relevant information was found in the reconstruction attempt.",
+      "evidence_refs": []
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "FCO Assistant Under Secretary Weir and Blatherwick separately called EMBOFF on the evening of April 21, 1977, to inform them of developments.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 2,
+      "justification": "The reconstruction mentions FCO experts contacting an EMBOFF in 1977, but it misses the specific names (Weir, Blatherwick), the exact date (April 21), the time (evening), and the purpose (to inform of developments, not just express qualms). The 'qualms' part is a different detail.",
+      "evidence_refs": [
+        "t4"
+      ]
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "Foreign Secretary Owen had ordered the British Study on Israeli Security Requirements.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 0,
+      "justification": "No relevant information was found in the reconstruction attempt about Owen ordering the study.",
+      "evidence_refs": []
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "Foreign Secretary Owen suddenly showed interest in the study on the afternoon of April 21, 1977.",
+      "claim_type": "event",
+      "importance": 4,
+      "score": 0,
+      "justification": "No relevant information was found in the reconstruction attempt about Owen's sudden interest in the study.",
+      "evidence_refs": []
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "Foreign Secretary Owen asked that the study be shown to him for approval before it was passed to the USG.",
+      "claim_type": "plan",
+      "importance": 4,
+      "score": 4,
+      "justification": "The synthesis hints at the need for senior leadership decisions regarding information release, which aligns with Owen's approval. However, it does not explicitly state Owen *asked* for the study to be *shown to him for approval* before being passed to the USG. It's an inference about the general situation, not a specific reconstruction of the claim.",
+      "evidence_refs": [
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "Foreign Secretary Owen's subordinates are embarrassed by the fact they have already released the study to the USG.",
+      "claim_type": "assessment",
+      "importance": 3,
+      "score": 6,
+      "justification": "The reconstruction captures the core idea that FCO officials (subordinates) want to prevent disclosure of prior discussions/reporting to the USG. While 'embarrassed' is not explicitly stated, the desire to conceal implies a negative consequence or awkwardness. The specific 'study' is generalized to 'an issue'.",
+      "evidence_refs": [
+        "t8",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "Foreign Secretary Owen's subordinates asked the Embassy if they could hold the study and treat it temporarily as a \"non-document\".",
+      "claim_type": "plan",
+      "importance": 4,
+      "score": 2,
+      "justification": "The reconstruction focuses on FCO's request *not to disclose* prior discussions/reporting, which is related to managing information flow. However, it completely misses the specific request to the Embassy to *hold the study* or treat it as a 'non-document'. The 'UN force resolution package' is a specific issue, not 'the study'.",
+      "evidence_refs": [
+        "t9",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "EMBOFF explained that they had already put copies of the study in the pouch and informed the Department they had received it.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 1,
+      "justification": "The reconstruction describes FCO's request for non-disclosure, not EMBOFF's explanation of what they had already done. The phrase 'Embassy London had reported it to Washington' is a very weak and indirect link to EMBOFF informing the Department, and it completely misses the 'pouched copies of the study' and the 'explained' aspect.",
+      "evidence_refs": [
+        "t10",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The FCO requested that the Department treat the British Study as a \"preliminary FCO working paper\" until Owen agrees to release it to the USG.",
+      "claim_type": "plan",
+      "importance": 5,
+      "score": 3,
+      "justification": "The synthesis hints at controlling information and awaiting senior leadership decisions, which relates to the *purpose* of the request. However, the specific request to treat the study as a 'preliminary FCO working paper' is entirely missing.",
+      "evidence_refs": [
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "FCO officers hoped Department officers would avoid mentioning receipt of the study to the British pending approval and release by Owen.",
+      "claim_type": "plan",
+      "importance": 4,
+      "score": 7,
+      "justification": "The reconstruction accurately captures the FCO's hope that Department officers would *not disclose to the British Embassy* prior communications/discussions. While 'receipt of the study' is generalized to 'discussing the issue' and 'reported it to Washington', the core intent of preventing disclosure to the British is well-captured. The 'pending approval and release by Owen' is not explicitly stated in t12 but is implied by the broader context of information control and senior leadership decisions mentioned in the synthesis.",
+      "evidence_refs": [
+        "t12",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "Weir is seeking approval and release of the study by Owen.",
+      "claim_type": "plan",
+      "importance": 3,
+      "score": 2,
+      "justification": "The synthesis mentions 'awaiting senior leadership decisions', which is related to the *goal* of approval and release. However, it does not mention 'Weir' or that he is *seeking* it.",
+      "evidence_refs": [
+        "synthesis"
+      ]
+    }
+  ],
+  "calculated_metrics": {
+    "total_claims": 13,
+    "average_score": 2.230769230769231,
+    "weighted_average_score": 2.297872340425532,
+    "fully_reconstructed": 0,
+    "partially_reconstructed": 3,
+    "not_reconstructed": 10,
+    "by_type": {
+      "plan": {
+        "count": 6,
+        "average_score": 3.3333333333333335
+      },
+      "event": {
+        "count": 6,
+        "average_score": 0.5
+      },
+      "assessment": {
+        "count": 1,
+        "average_score": 6
+      }
+    },
+    "by_importance": {
+      "3": {
+        "count": 6,
+        "average_score": 1.8333333333333333
+      },
+      "4": {
+        "count": 6,
+        "average_score": 2.5
+      },
+      "5": {
+        "count": 1,
+        "average_score": 3
+      }
+    }
+  },
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "total_tokens": 7900,
+    "cost_usd": 0.0011043
+  }
+}

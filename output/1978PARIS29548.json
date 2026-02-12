@@ -1,0 +1,205 @@
+{
+  "doc_id": "1978PARIS29548",
+  "timestamp": "2026-02-12T19:34:28.616Z",
+  "claim_evaluations": [
+    {
+      "claim_id": "c1",
+      "claim_text": "QUAI DEPUTY DIRECTOR IN CHARGE OF NORTH AFRICAN AFFAIRS (ALBIS) informed 'us' on September 6.",
+      "claim_type": "attribution",
+      "importance": 3,
+      "score": 7,
+      "justification": "The reconstruction correctly identifies ALBIS as the Quai Deputy Director for North African Affairs who provided information to the reporting entity. However, the date of the information exchange is incorrect (September 13 in reconstruction vs. September 6 in original).",
+      "evidence_refs": [
+        "t1"
+      ]
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The French Ambassador in Tripoli carried out a demarche to the GOL on Monday, September 4.",
+      "claim_type": "event",
+      "importance": 5,
+      "score": 2,
+      "justification": "The reconstruction incorrectly identifies who carried out the demarche (Tristan d'Albis, Quai Deputy Director, in Paris) and where it occurred, contradicting the original claim that the French Ambassador in Tripoli carried out the demarche. The date is also not mentioned.",
+      "evidence_refs": [
+        "t2",
+        "t8",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The French demarche to the GOL followed 'our' approach.",
+      "claim_type": "event",
+      "importance": 4,
+      "score": 9,
+      "justification": "The reconstruction clearly states that the United States (our) undertook an earlier demarche on July 28, confirming that the French demarche followed 'our' approach.",
+      "evidence_refs": [
+        "t4",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "'Our' original demarche on this subject occurred.",
+      "claim_type": "event",
+      "importance": 4,
+      "score": 10,
+      "justification": "The reconstruction fully captures this claim by specifying that the United States (our) undertook an initial demarche on July 28, providing more detail than the original claim.",
+      "evidence_refs": [
+        "t4",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "The French Ambassador had raised the question with Quai Secretary General Soutou.",
+      "claim_type": "event",
+      "importance": 3,
+      "score": 0,
+      "justification": "The reconstruction provides no information about the French Ambassador raising the question with Quai Secretary General Soutou. Question [t5] discusses informing Italians, and [t6] explicitly states 'Unable to answer' for a related query.",
+      "evidence_refs": [
+        "t5",
+        "t6"
+      ]
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "The meeting between the French Ambassador and Quai Secretary General Soutou occurred on August 25.",
+      "claim_type": "logistics",
+      "importance": 2,
+      "score": 0,
+      "justification": "The reconstruction explicitly states 'Unable to answer' for the question regarding the date of this meeting.",
+      "evidence_refs": [
+        "t6"
+      ]
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "ALBIS was skimpy with details of the French demarche.",
+      "claim_type": "assessment",
+      "importance": 3,
+      "score": 1,
+      "justification": "The reconstruction directly contradicts the claim, stating that ALBIS 'was able to provide specific details' because he personally made the demarche, rather than being 'skimpy with details'.",
+      "evidence_refs": [
+        "t7"
+      ]
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "The French demarche had been in the form of a protest.",
+      "claim_type": "logistics",
+      "importance": 4,
+      "score": 10,
+      "justification": "The reconstruction explicitly states that the French diplomatic representation involved 'protesting' to the Libyan Ambassador, confirming it was in the form of a protest.",
+      "evidence_refs": [
+        "t8",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "The French demarche was related to French desire for improved Libyan-French relations.",
+      "claim_type": "relationship",
+      "importance": 4,
+      "score": 10,
+      "justification": "The reconstruction clearly links the French demarche to the desire for improved French-Libyan relations, noting its timing and low-key nature were influenced by this goal.",
+      "evidence_refs": [
+        "t9",
+        "th2",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "France desires improved Libyan-French relations.",
+      "claim_type": "assessment",
+      "importance": 4,
+      "score": 10,
+      "justification": "The reconstruction repeatedly and clearly states that France desires improved Libyan-French relations, identifying it as a strategic goal and aim.",
+      "evidence_refs": [
+        "t10",
+        "q1",
+        "q3",
+        "synthesis"
+      ]
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "ALBIS said there was no Libyan reaction to the demarche.",
+      "claim_type": "attribution",
+      "importance": 3,
+      "score": 6,
+      "justification": "The attribution to ALBIS is correct. However, while ALBIS noted 'nothing more had been heard from the Libyans on the subject' (implying no *further* reaction), the reconstruction also details an initial response from the Libyan Ambassador (not denying, attempting to dismiss), which contradicts the absolute 'no Libyan reaction' in the original claim.",
+      "evidence_refs": [
+        "t11"
+      ]
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "There was no Libyan reaction to the demarche.",
+      "claim_type": "event",
+      "importance": 5,
+      "score": 2,
+      "justification": "The reconstruction directly contradicts the claim that there was 'no Libyan reaction'. It clearly describes an initial reaction from the Libyan Ambassador (not denying, attempting to dismiss the incident), although it notes 'no further response' was heard.",
+      "evidence_refs": [
+        "t11",
+        "t12",
+        "th3",
+        "synthesis"
+      ]
+    }
+  ],
+  "calculated_metrics": {
+    "total_claims": 12,
+    "average_score": 5.583333333333333,
+    "weighted_average_score": 5.863636363636363,
+    "fully_reconstructed": 5,
+    "partially_reconstructed": 2,
+    "not_reconstructed": 5,
+    "by_type": {
+      "attribution": {
+        "count": 2,
+        "average_score": 6.5
+      },
+      "event": {
+        "count": 5,
+        "average_score": 4.6
+      },
+      "logistics": {
+        "count": 2,
+        "average_score": 5
+      },
+      "assessment": {
+        "count": 2,
+        "average_score": 5.5
+      },
+      "relationship": {
+        "count": 1,
+        "average_score": 10
+      }
+    },
+    "by_importance": {
+      "2": {
+        "count": 1,
+        "average_score": 0
+      },
+      "3": {
+        "count": 4,
+        "average_score": 3.5
+      },
+      "4": {
+        "count": 5,
+        "average_score": 9.8
+      },
+      "5": {
+        "count": 2,
+        "average_score": 2
+      }
+    }
+  },
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "total_tokens": 6370,
+    "cost_usd": 0.00102975
+  }
+}
