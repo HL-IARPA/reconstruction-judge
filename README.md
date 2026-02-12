@@ -50,6 +50,17 @@ npx tsx src/index.ts \
 npx tsx src/index.ts --aggregate
 ```
 
+### Options
+
+| Flag | Description | Default |
+|------|-------------|---------|
+| `--reconstruction-dir` | Directory with Stage 2 outputs | required |
+| `--claims-dir` | Directory with Stage 1 outputs | required |
+| `--doc-id` | Process single document by ID | - |
+| `--all` | Process all available documents | - |
+| `--aggregate` | Generate aggregate stats only | - |
+| `--output` | Output directory | ./output |
+
 ## Output
 
 ```
