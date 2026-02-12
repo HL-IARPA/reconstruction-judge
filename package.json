@@ -1,0 +1,19 @@
+{
+  "name": "reconstruction-judge",
+  "version": "1.0.0",
+  "description": "Stage 3: Evaluate reconstruction quality per-claim",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
